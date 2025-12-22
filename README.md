@@ -1,5 +1,5 @@
 <h2 align="left">Hiii 👋! I'm Akash</h2>
-
+![](https://komarev.com/ghpvc/?username=AkashKrish1010&color=green)
 ###
 
 <h1 align="left">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h1>
