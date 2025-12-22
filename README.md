@@ -1,5 +1,4 @@
 <h2 align="left">Hiii 👋! I'm Akash</h2>
-![](https://komarev.com/ghpvc/?username=AkashKrish1010&color=green)
 ###
 
 <h1 align="left">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h1>
@@ -94,3 +93,5 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashKrish1010&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 
 ###
+
+![](https://komarev.com/ghpvc/?username=AkashKrish1010&color=green)
