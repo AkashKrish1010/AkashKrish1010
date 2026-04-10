@@ -1,23 +1,41 @@
-name: Update Quote
+name: 🤖 Daily Quote Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    # Runs every day at 6:00 AM UTC (11:30 AM IST)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
   update-quote:
+    name: Fetch & Update Daily Quote
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
-
-      - name: Generate Daily Quote
-        uses: ruchernchong/quotely@4fa41f13b2515ae2b9bddd128a89fd666231be2e
         with:
-          google-generative-ai-api-key: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
-          auto-commit: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install Dependencies
+        run: pip install google-generativeai
+
+      - name: 🤖 Run Quote Generator
+        env:
+          GOOGLE_GENERATIVE_AI_API_KEY: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
+        run: python update_quote.py
+
+      - name: 📝 Commit & Push README Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Daily Quote Update — $(date +'%Y-%m-%d')"
+          git push
