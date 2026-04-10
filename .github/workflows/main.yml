@@ -25,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: 📦 Install Dependencies
-        run: pip install google-generativeai
+        run: pip install google-genai
 
       - name: 🤖 Run Quote Generator
         env:
