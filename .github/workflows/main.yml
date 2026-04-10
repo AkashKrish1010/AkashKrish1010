@@ -29,7 +29,7 @@ jobs:
 
       - name: 🤖 Run Quote Generator
         env:
-          GOOGLE_GENERATIVE_AI_API_KEY: ${{ vars.GOOGLE_GENERATIVE_AI_API_KEY }}
+          GOOGLE_GENERATIVE_AI_API_KEY: ${{  secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
         run: python update_quote.py
 
       - name: 📝 Commit & Push README Changes
