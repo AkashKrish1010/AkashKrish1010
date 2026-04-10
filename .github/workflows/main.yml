@@ -1,0 +1,3 @@
+- uses: ruchernchong/quotely@v1
+  with:
+    google-generative-ai-api-key: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
