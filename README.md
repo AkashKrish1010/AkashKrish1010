@@ -20,10 +20,12 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="20" />
@@ -96,11 +98,19 @@
 
 ###
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-rust-phi-64.vercel.app/api?username=AkashKrish1010&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" width="100%" alt="stats graph" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-rust-phi-64.vercel.app/api/top-langs?username=AkashKrish1010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="200" width="100%" alt="languages graph" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats-rust-phi-64.vercel.app/api?username=AkashKrish1010&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" width="400" alt="stats graph"  />
- 
-  <br><br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashKrish1010&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-
-###
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashKrish1010&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
+</div>
