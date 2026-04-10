@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Quotely
-        uses: ruchernchong/quotely@v1
+        uses: ruchernchong/quotely@v1.1.0
         with:
           google-generative-ai-api-key: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
