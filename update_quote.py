@@ -5,7 +5,11 @@ from google import genai
 from datetime import datetime
 
 # Configure Gemini with new SDK
-client = genai.Client(api_key=os.environ["GOOGLE_GENERATIVE_AI_API_KEY"])
+api_key = os.environ.get("GOOGLE_GENERATIVE_AI_API_KEY", "").strip()
+if not api_key:
+    raise ValueError("❌ GOOGLE_GENERATIVE_AI_API_KEY secret is missing or empty! Go to GitHub repo → Settings → Secrets and variables → Actions and verify it exists.")
+print(f"🔑 API key loaded: {api_key[:6]}...{api_key[-4:]} (length: {len(api_key)})")
+client = genai.Client(api_key=api_key)
 
 QUOTE_STYLES = [
     "motivational and uplifting",
