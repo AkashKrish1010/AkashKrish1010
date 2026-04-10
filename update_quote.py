@@ -1,11 +1,11 @@
 import os
 import re
 import random
-import google.generativeai as genai
+from google import genai
 from datetime import datetime
 
-# Configure Gemini
-genai.configure(api_key=os.environ["GOOGLE_GENERATIVE_AI_API_KEY"])
+# Configure Gemini with new SDK
+client = genai.Client(api_key=os.environ["GOOGLE_GENERATIVE_AI_API_KEY"])
 
 QUOTE_STYLES = [
     "motivational and uplifting",
@@ -23,7 +23,7 @@ def get_quote():
     today = datetime.now().strftime("%A, %B %d %Y")
 
     prompt = f"""Generate a single unique quote for today ({today}) that is {style}.
-    
+
 Rules:
 - The quote must be original and not a famous existing quote
 - Keep it under 25 words
@@ -31,8 +31,10 @@ Rules:
 - Return ONLY the quote text with NO attribution, NO author, NO extra text, NO quotation marks
 - Just the raw quote sentence itself"""
 
-    model = genai.GenerativeModel("gemini-2.0-flash")
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model="gemini-2.0-flash",
+        contents=prompt,
+    )
     quote = response.text.strip().strip('"').strip("'").strip()
     return quote, style
 
