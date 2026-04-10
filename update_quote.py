@@ -36,7 +36,7 @@ Rules:
 - Just the raw quote sentence itself"""
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.1-flash-lite-preview",
         contents=prompt,
     )
     quote = response.text.strip().strip('"').strip("'").strip()
