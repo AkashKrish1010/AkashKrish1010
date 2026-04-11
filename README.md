@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" width="55" alt="nodejs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" width="55" alt="express" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" width="55" alt="express" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="55" width="55" alt="appwrite" />
   <img width="12" />
