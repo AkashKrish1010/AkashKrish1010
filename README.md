@@ -22,7 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" width="55" alt="javascript" />
-  <img width="12" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="55" width="55" alt="typescript" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" width="55" alt="java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" width="55" alt="c" />
@@ -56,29 +58,19 @@
 
 <br clear="both">
 
-<h3 align="left">🌐SOCIALS:</h3>
+<h3 align="left">🌐 SOCIALS:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/akash-s-6a474336b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://x.com/Akash35357539" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxgTHSBDgZwpffTnhQDTvQwwVxbBwMznQKjCnxHpvNftSBFvwXlSfQBjtNlvrlCbdtjnD" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/akxsh_krxsh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/akash-s-6a474336b/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Akash35357539" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="55" width="55" alt="X" title="X" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akxsh_krxsh/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" height="55" width="55" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akashkrsh1010@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="55" width="55" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Akash_krish13/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" width="55" alt="LeetCode" title="LeetCode" /></a>
+</p>
 <br><br>
 
 ## ✨ Daily Quote
@@ -97,6 +89,8 @@
 <p align="left"></p>
 
 ###
+
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats-rust-phi-64.vercel.app/api?username=AkashKrish1010&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="195" alt="stats graph" />&nbsp;&nbsp;
