@@ -34,8 +34,8 @@ jobs:
 
       - name: 📝 Commit & Push README Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "akashkrish1010@gmail.com"
+          git config --local user.name "AkashKrish1010"
           git add README.md
           git diff --staged --quiet || git commit -m "🤖 Daily Quote Update — $(date +'%Y-%m-%d')"
           git push
