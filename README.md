@@ -12,27 +12,47 @@
 
 ###
 
-<h3 align="left">💻 TECH STACK:</h3>
+<h3 align="left">💻TECH STACK:</h3>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 14px;">
+###
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" width="55" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" width="55" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" width="55" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="55" width="55" />
+<br clear="both">
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="50" alt="appwrite logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo" />
 </div>
+
+###
+
+<p align="left"></p>
+
 ###
 
 <br clear="both">
@@ -43,13 +63,13 @@
 
 <br clear="both">
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/akash-s-6a474336b/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Akash35357539" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="55" width="55" alt="X" title="X" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/akxsh_krxsh/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" height="55" width="55" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:akashkrsh1010@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="55" width="55" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Akash_krish13/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" width="55" alt="LeetCode" title="LeetCode" /></a>
-</div>
+</p>
 <br><br>
 
 ## ✨ Daily Quote
