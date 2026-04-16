@@ -71,7 +71,7 @@
   <a href="mailto:akashkrsh1010@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="55" width="55" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Akash_krish13/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" width="55" alt="LeetCode" title="LeetCode" /></a>
 </p>
-<br><br>
+
 
 ## ✨ Daily Quote
 <!--STARTS_HERE_QUOTE_README-->
