@@ -64,14 +64,14 @@
 
 <br clear="both">
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/akash-s-6a474336b/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="55" width="55" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Akash35357539" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="55" width="55" alt="X" title="X" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/akxsh_krxsh/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" height="55" width="55" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:akashkrsh1010@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="55" width="55" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Akash_krish13/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" width="55" alt="LeetCode" title="LeetCode" /></a>
-</p>
-
+</div>
+<br><br>
 
 ## ✨ Daily Quote
 <!--STARTS_HERE_QUOTE_README-->
