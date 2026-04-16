@@ -52,10 +52,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <br clear="both">
 
 <h3 align="left">🌐 SOCIALS:</h3>
