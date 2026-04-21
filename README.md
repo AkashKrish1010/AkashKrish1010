@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Monday is just a long trial version of the weekend that refuses to let you click skip."*
+> 🧱 *"The sun rises regardless of your preparation, so meet the inevitable with a mind that has already mastered the outcome."*
 
 
 </div>
