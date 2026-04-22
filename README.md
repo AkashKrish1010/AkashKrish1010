@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises regardless of your preparation, so meet the inevitable with a mind that has already mastered the outcome."*
+> 💻 *"Life is the only runtime environment where the garbage collector never reclaims your potential."*
 
 
 </div>
