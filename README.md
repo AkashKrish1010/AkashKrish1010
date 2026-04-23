@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Life is the only runtime environment where the garbage collector never reclaims your potential."*
+> 🧱 *"The sun rises on a predetermined horizon, demanding only that you act with the dignity your own nature requires."*
 
 
 </div>
