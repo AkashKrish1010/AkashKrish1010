@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises on a predetermined horizon, demanding only that you act with the dignity your own nature requires."*
+> 🤔 *"The horizon does not end the journey; it simply invites the eyes to imagine what the feet have not yet dared to touch."*
 
 
 </div>
