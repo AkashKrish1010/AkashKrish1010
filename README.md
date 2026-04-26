@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey; it simply invites the eyes to imagine what the feet have not yet dared to touch."*
+> 😂 *"Sunday is just a giant red light blinking before the five-day marathon of pretending to enjoy emails begins."*
 
 
 </div>
