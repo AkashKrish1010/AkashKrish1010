@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a giant red light blinking before the five-day marathon of pretending to enjoy emails begins."*
+> 🧱 *"The river flows by necessity, and the stone stands by choice; reconcile your will with the current of the inevitable."*
 
 
 </div>
