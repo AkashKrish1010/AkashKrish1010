@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The river flows by necessity, and the stone stands by choice; reconcile your will with the current of the inevitable."*
+> 💻 *"Optimization is just the art of failing to accept that the universe prefers entropy over your clean architecture."*
 
 
 </div>
