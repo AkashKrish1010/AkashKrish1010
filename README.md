@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Optimization is just the art of failing to accept that the universe prefers entropy over your clean architecture."*
+> 😏 *"Congratulations on surviving another Thursday; your ability to accomplish absolutely nothing with such rhythmic consistency is truly an inspiration to the lazy."*
 
 
 </div>
