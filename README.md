@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Congratulations on surviving another Thursday; your ability to accomplish absolutely nothing with such rhythmic consistency is truly an inspiration to the lazy."*
+> 🧱 *"The rising sun owes nothing to your plans, yet offers everything to your resolve."*
 
 
 </div>
