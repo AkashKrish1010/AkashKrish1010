@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The rising sun owes nothing to your plans, yet offers everything to your resolve."*
+> 🧱 *"The sun sets on the week not to erase your toil, but to steady your focus for the path ahead."*
 
 
 </div>
