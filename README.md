@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Sunday is the refactoring of the soul, where we delete the technical debt of the week to compile a fresh consciousness."*
+> 😂 *"Monday is just a long, unskippable advertisement for the weekend that you accidentally clicked on by existing."*
 
 
 </div>
