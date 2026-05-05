@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Monday is just a long, unskippable advertisement for the weekend that you accidentally clicked on by existing."*
+> 🤔 *"The horizon is not a destination we reach, but the boundary where our expectations dissolve into the vastness of what remains unseen."*
 
 
 </div>
