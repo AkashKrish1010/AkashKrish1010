@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon is not a destination we reach, but the boundary where our expectations dissolve into the vastness of what remains unseen."*
+> 💻 *"Wednesday is the refactor of the week, smoothing out the logic we rushed into production on Monday."*
 
 
 </div>
