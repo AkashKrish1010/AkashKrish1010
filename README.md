@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Wednesday is the refactor of the week, smoothing out the logic we rushed into production on Monday."*
+> 😂 *"If you think nobody cares if you are alive, try missing a couple of car payments."*
 
 
 </div>
