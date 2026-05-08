@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"If you think nobody cares if you are alive, try missing a couple of car payments."*
+> 💻 *"Friday is the garbage collector of the week, sweeping away our legacy bugs so we can start Monday with a fresh heap."*
 
 
 </div>
