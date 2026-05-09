@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Friday is the garbage collector of the week, sweeping away our legacy bugs so we can start Monday with a fresh heap."*
+> 😂 *"My house is not messy, it is just a high-definition 3D map of every single thing I meant to do this week."*
 
 
 </div>
