@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"My house is not messy, it is just a high-definition 3D map of every single thing I meant to do this week."*
+> 🧱 *"The sun rises on a fixed horizon, indifferent to the chaos you carry; focus only on the virtue you command today."*
 
 
 </div>
