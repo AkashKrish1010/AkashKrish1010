@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises on a fixed horizon, indifferent to the chaos you carry; focus only on the virtue you command today."*
+> 🙃 *"My code is a fragile monument to the optimism I possessed at three in the morning when I thought I was finished."*
 
 
 </div>
