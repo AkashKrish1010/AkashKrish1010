@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile monument to the optimism I possessed at three in the morning when I thought I was finished."*
+> 🙃 *"My code is a fragile house of cards, and I am the only one who knows which gust of wind causes it to collapse."*
 
 
 </div>
