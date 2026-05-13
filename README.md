@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards, and I am the only one who knows which gust of wind causes it to collapse."*
+> 🚀 *"Wednesday is the quiet bridge between your past efforts and the brilliant harvest awaiting your arrival at the week’s end."*
 
 
 </div>
