@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Wednesday is the quiet bridge between your past efforts and the brilliant harvest awaiting your arrival at the week’s end."*
+> 🤔 *"We trace the map of our destiny on shifting sands, forgetting that the tide is the only architect that truly remains."*
 
 
 </div>
