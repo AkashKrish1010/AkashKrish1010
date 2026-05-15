@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We trace the map of our destiny on shifting sands, forgetting that the tide is the only architect that truly remains."*
+> 🙃 *"I spent all Friday fixing the bug I carefully crafted on Monday, only to realize I was the bug all along."*
 
 
 </div>
