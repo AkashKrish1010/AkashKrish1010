@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all Friday fixing the bug I carefully crafted on Monday, only to realize I was the bug all along."*
+> 😏 *"Sunday is just a polite reminder that your entire week of productivity is about to be violently interrupted by Monday."*
 
 
 </div>
