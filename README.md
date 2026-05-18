@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a giant middle finger from the weekend before it retreats into the shadows of Monday morning."*
+> 😏 *"Monday is just the universe’s way of reminding you that your weekend was merely a temporary lapse in your servitude."*
 
 
 </div>
