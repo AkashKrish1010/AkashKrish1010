@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Monday is just the universe’s way of reminding you that your weekend was merely a temporary lapse in your servitude."*
+> 🙃 *"My code is a fragile glass house, and I am the only one throwing stones at it from the inside."*
 
 
 </div>
