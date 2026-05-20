@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile glass house, and I am the only one throwing stones at it from the inside."*
+> 🙃 *"My code is just a collection of fragile secrets held together by hope, caffeine, and a terrifying amount of comments I no longer understand."*
 
 
 </div>
