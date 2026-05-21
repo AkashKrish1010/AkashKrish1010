@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is just a collection of fragile secrets held together by hope, caffeine, and a terrifying amount of comments I no longer understand."*
+> 🌱 *"The roots of your progress are often found in the quiet seasons when you choose to bloom despite the lack of rain."*
 
 
 </div>
