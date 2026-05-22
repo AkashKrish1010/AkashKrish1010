@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of your progress are often found in the quiet seasons when you choose to bloom despite the lack of rain."*
+> 🤔 *"The horizon retreats not because we move, but because our perception of the end is merely the architecture of our beginning."*
 
 
 </div>
