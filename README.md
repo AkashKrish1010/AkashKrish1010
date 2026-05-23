@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon retreats not because we move, but because our perception of the end is merely the architecture of our beginning."*
+> 😏 *"Saturday is just a high-stakes dress rehearsal for the existential dread of Sunday evening."*
 
 
 </div>
