@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Saturday is just a high-stakes dress rehearsal for the existential dread of Sunday evening."*
+> 🤔 *"Sunday is the quiet mirror where the week observes its own reflection before dissolving into the vast mystery of what comes next."*
 
 
 </div>
