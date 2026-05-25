@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"Sunday is the quiet mirror where the week observes its own reflection before dissolving into the vast mystery of what comes next."*
+> 🙃 *"I spent all Monday fixing a bug I personally invited into the codebase on Friday."*
 
 
 </div>
