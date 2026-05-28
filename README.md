@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all Monday fixing a bug I personally invited into the codebase on Friday."*
+> 🚀 *"Your progress is a quiet masterpiece being painted one deliberate choice at a time."*
 
 
 </div>
