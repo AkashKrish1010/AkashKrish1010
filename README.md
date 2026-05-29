@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Your progress is a quiet masterpiece being painted one deliberate choice at a time."*
+> 🤔 *"The horizon does not end the journey, it merely invites the shadows to reveal what the light has chosen to ignore."*
 
 
 </div>
