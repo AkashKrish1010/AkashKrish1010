@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it merely invites the shadows to reveal what the light has chosen to ignore."*
+> 🧱 *"The sun sets on the week not to mark an end, but to finalize the harvest of your discipline."*
 
 
 </div>
