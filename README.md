@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun sets on the week not to mark an end, but to finalize the harvest of your discipline."*
+> 😂 *"Saturday is just a trial run for doing absolutely nothing with much higher stakes on Sunday."*
 
 
 </div>
