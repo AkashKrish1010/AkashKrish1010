@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Saturday is just a trial run for doing absolutely nothing with much higher stakes on Sunday."*
+> 😏 *"Sunday is just a polite reminder that your problems are waiting for you in the lobby and they don't accept cancellations."*
 
 
 </div>
