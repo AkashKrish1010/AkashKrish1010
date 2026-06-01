@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite reminder that your problems are waiting for you in the lobby and they don't accept cancellations."*
+> 💻 *"Every Monday is a force refresh on the soul, clearing the cached failures of the previous sprint to recompile your purpose from scratch."*
 
 
 </div>
