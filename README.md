@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Every Monday is a force refresh on the soul, clearing the cached failures of the previous sprint to recompile your purpose from scratch."*
+> 💻 *"Tuesday is just the infinite loop of the week where we debug the mistakes we committed on Monday."*
 
 
 </div>
