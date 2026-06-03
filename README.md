@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Tuesday is just the infinite loop of the week where we debug the mistakes we committed on Monday."*
+> 🚀 *"The roots of your progress take hold in the quiet moments when you choose to begin again despite the uncertainty of the climb."*
 
 
 </div>
