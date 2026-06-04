@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The roots of your progress take hold in the quiet moments when you choose to begin again despite the uncertainty of the climb."*
+> 💻 *"Life is a recursive function that only finds meaning when it finally hits the base case of being remembered."*
 
 
 </div>
