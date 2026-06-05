@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Life is a recursive function that only finds meaning when it finally hits the base case of being remembered."*
+> 💻 *"Friday is just a syntax error in the middle of a week-long loop waiting for the weekend deployment."*
 
 
 </div>
