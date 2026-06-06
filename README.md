@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Friday is just a syntax error in the middle of a week-long loop waiting for the weekend deployment."*
+> 💻 *"Saturday is the perfect syntax for resetting your internal buffer and compiling memories that optimize the runtime of your soul."*
 
 
 </div>
