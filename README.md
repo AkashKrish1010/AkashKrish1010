@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Saturday is the perfect syntax for resetting your internal buffer and compiling memories that optimize the runtime of your soul."*
+> 💻 *"Sunday is the silent debugger where we clear the cache of the soul and refactor the week ahead."*
 
 
 </div>
