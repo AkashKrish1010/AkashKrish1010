@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Sunday is the silent debugger where we clear the cache of the soul and refactor the week ahead."*
+> 🙃 *"I spend Monday morning fixing the bugs I created on Friday afternoon to ensure I have something to do for the rest of the week."*
 
 
 </div>
