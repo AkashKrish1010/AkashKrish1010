@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spend Monday morning fixing the bugs I created on Friday afternoon to ensure I have something to do for the rest of the week."*
+> 🧱 *"The sun sets regardless of your grievances, and in that indifference lies your freedom to begin again."*
 
 
 </div>
