@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun sets regardless of your grievances, and in that indifference lies your freedom to begin again."*
+> 💻 *"Midweek is merely a comment in the source code of the week; execute your tasks with the elegance of optimized memory allocation."*
 
 
 </div>
