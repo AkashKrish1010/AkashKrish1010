@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Midweek is merely a comment in the source code of the week; execute your tasks with the elegance of optimized memory allocation."*
+> 🧱 *"The sun rises on the inevitable, and your character remains the only architecture you truly control."*
 
 
 </div>
