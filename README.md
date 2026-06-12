@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises on the inevitable, and your character remains the only architecture you truly control."*
+> 🤔 *"The horizon does not end the journey, it merely invites the eye to imagine what the feet have yet to measure."*
 
 
 </div>
