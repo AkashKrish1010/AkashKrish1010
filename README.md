@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it merely invites the eye to imagine what the feet have yet to measure."*
+> 🧱 *"The tides of the world move without your permission, so anchor your peace in the only ground you truly possess: your own resolve."*
 
 
 </div>
