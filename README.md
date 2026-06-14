@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The tides of the world move without your permission, so anchor your peace in the only ground you truly possess: your own resolve."*
+> 😂 *"Sunday is just a giant pause button for a life that is currently buffering."*
 
 
 </div>
