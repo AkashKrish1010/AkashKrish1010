@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a giant pause button for a life that is currently buffering."*
+> 😏 *"Monday is just the universe’s way of reminding you that your weekend freedom was merely a temporary clerical error."*
 
 
 </div>
