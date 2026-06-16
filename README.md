@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Monday is just the universe’s way of reminding you that your weekend freedom was merely a temporary clerical error."*
+> 🤔 *"We do not build the future by reaching forward but by deciding what we are finally willing to leave behind."*
 
 
 </div>
