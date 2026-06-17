@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We do not build the future by reaching forward but by deciding what we are finally willing to leave behind."*
+> 🧱 *"The sun rises on what is fixed and sets on what is fleeting; focus only on the virtue within your reach."*
 
 
 </div>
