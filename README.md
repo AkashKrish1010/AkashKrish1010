@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises on what is fixed and sets on what is fleeting; focus only on the virtue within your reach."*
+> 😏 *"Congratulations on surviving another Thursday, a day specifically designed to remind you that the weekend is close enough to torture you with anticipation."*
 
 
 </div>
