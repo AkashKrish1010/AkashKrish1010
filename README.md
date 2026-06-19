@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Congratulations on surviving another Thursday, a day specifically designed to remind you that the weekend is close enough to torture you with anticipation."*
+> 😏 *"Congratulations on making it to Friday, yet another milestone in your quest to eventually reach the weekend and immediately ruin it with anticipation."*
 
 
 </div>
