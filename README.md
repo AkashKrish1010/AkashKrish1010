@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Congratulations on making it to Friday, yet another milestone in your quest to eventually reach the weekend and immediately ruin it with anticipation."*
+> 🌱 *"The depth of your roots is only revealed by the strength of the winds you choose to weather."*
 
 
 </div>
