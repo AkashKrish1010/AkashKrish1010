@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The depth of your roots is only revealed by the strength of the winds you choose to weather."*
+> 💻 *"Sunday is the semicolon of the week, a brief pause that allows the rest of our logic to compile in peace."*
 
 
 </div>
