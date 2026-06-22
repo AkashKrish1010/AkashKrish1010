@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Sunday is the semicolon of the week, a brief pause that allows the rest of our logic to compile in peace."*
+> 🙃 *"My code is a masterpiece of historical fiction where the bugs are the only true plot twists I intended to leave behind."*
 
 
 </div>
