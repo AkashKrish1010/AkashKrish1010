@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a masterpiece of historical fiction where the bugs are the only true plot twists I intended to leave behind."*
+> 🌱 *"The depth of your roots is measured by the storms you have weathered to reach the sun."*
 
 
 </div>
