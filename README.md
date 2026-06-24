@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The depth of your roots is measured by the storms you have weathered to reach the sun."*
+> 🌱 *"The seeds of tomorrow are nourished by the quiet lessons we harvest from the soil of today."*
 
 
 </div>
