@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The seeds of tomorrow are nourished by the quiet lessons we harvest from the soil of today."*
+> 🤔 *"The horizon does not end the world; it merely reminds us that our perspective is a boundary we have yet to cross."*
 
 
 </div>
