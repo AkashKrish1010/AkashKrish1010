@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the world; it merely reminds us that our perspective is a boundary we have yet to cross."*
+> 🧱 *"The sun rises on what is already written, yet your will remains the final architect of your own character."*
 
 
 </div>
