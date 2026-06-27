@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises on what is already written, yet your will remains the final architect of your own character."*
+> 🚀 *"Saturday is the quiet bridge between who you were and the version of yourself you are becoming today."*
 
 
 </div>
