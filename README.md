@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Saturday is the quiet bridge between who you were and the version of yourself you are becoming today."*
+> 🧱 *"The sun rises not to promise comfort, but to witness the steady hand with which you master the inevitable."*
 
 
 </div>
