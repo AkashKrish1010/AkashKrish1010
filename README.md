@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises not to promise comfort, but to witness the steady hand with which you master the inevitable."*
+> 🙃 *"My code is a fragile house of cards, and I am the breeze that accidentally knocks it over every Monday morning."*
 
 
 </div>
