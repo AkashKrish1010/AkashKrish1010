@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards, and I am the breeze that accidentally knocks it over every Monday morning."*
+> 😏 *"Congratulations on surviving Tuesday, a day whose only real purpose is to remind you that Friday is still light-years away."*
 
 
 </div>
