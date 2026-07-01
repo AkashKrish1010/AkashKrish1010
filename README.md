@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Congratulations on surviving Tuesday, a day whose only real purpose is to remind you that Friday is still light-years away."*
+> 💻 *"Compiling yesterday’s errors into tomorrow’s features is the only way to refactor a life well spent."*
 
 
 </div>
