@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Compiling yesterday’s errors into tomorrow’s features is the only way to refactor a life well spent."*
+> 🌱 *"The deepest roots of who we are meant to be always find their strength in the soil of our quietest transformations."*
 
 
 </div>
