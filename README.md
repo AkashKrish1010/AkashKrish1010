@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The deepest roots of who we are meant to be always find their strength in the soil of our quietest transformations."*
+> 🙃 *"My code is a fragile glass house built entirely on the shaky foundation of a Stack Overflow comment from 2014."*
 
 
 </div>
