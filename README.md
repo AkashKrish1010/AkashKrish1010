@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile glass house built entirely on the shaky foundation of a Stack Overflow comment from 2014."*
+> 🙃 *"My code is a fragile monument to the bugs I have yet to realize I created."*
 
 
 </div>
