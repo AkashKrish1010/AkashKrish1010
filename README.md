@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile monument to the bugs I have yet to realize I created."*
+> 😂 *"Sunday is just a practice round for the existential dread you have scheduled for Monday morning."*
 
 
 </div>
