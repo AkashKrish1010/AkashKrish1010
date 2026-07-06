@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a practice round for the existential dread you have scheduled for Monday morning."*
+> 🚀 *"The start of a new week is a quiet blank canvas waiting for the vibrant colors of your own courage."*
 
 
 </div>
