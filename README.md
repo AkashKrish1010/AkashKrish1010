@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The start of a new week is a quiet blank canvas waiting for the vibrant colors of your own courage."*
+> 🚀 *"The sun does not need a reason to rise, and today, you do not need a reason to begin again."*
 
 
 </div>
