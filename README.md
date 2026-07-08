@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The sun does not need a reason to rise, and today, you do not need a reason to begin again."*
+> 🌱 *"True growth is found not in the arrival at the summit, but in the quiet courage required to climb the path you once feared."*
 
 
 </div>
