@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"True growth is found not in the arrival at the summit, but in the quiet courage required to climb the path you once feared."*
+> 😂 *"I finally discovered the secret to happiness, but I forgot where I hid the map halfway through my second cup of coffee."*
 
 
 </div>
