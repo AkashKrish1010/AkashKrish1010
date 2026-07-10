@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"I finally discovered the secret to happiness, but I forgot where I hid the map halfway through my second cup of coffee."*
+> 🌱 *"Friday is the bridge where the lessons of the week transform into the steady foundation of your future self."*
 
 
 </div>
