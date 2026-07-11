@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Friday is the bridge where the lessons of the week transform into the steady foundation of your future self."*
+> 😏 *"Saturday is just a glorified waiting room for the existential dread of Monday morning."*
 
 
 </div>
