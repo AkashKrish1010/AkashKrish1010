@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Saturday is just a glorified waiting room for the existential dread of Monday morning."*
+> 🌱 *"The roots of tomorrow are fed by the quiet persistence of your growth today."*
 
 
 </div>
