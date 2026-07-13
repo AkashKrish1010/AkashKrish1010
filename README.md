@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of tomorrow are fed by the quiet persistence of your growth today."*
+> 🚀 *"Monday is the blank canvas where your intentions become the brushstrokes of a masterpiece week."*
 
 
 </div>
