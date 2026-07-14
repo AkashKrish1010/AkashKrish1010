@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Monday is the blank canvas where your intentions become the brushstrokes of a masterpiece week."*
+> 🧱 *"The sun rises regardless of your intent, and your character is the only harvest you truly control today."*
 
 
 </div>
