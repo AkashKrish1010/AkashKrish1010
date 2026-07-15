@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises regardless of your intent, and your character is the only harvest you truly control today."*
+> 😏 *"Wednesday is just the universe’s way of reminding you that you are only halfway to the weekend you will spend dreading Monday."*
 
 
 </div>
