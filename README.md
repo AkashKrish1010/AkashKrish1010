@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Wednesday is just the universe’s way of reminding you that you are only halfway to the weekend you will spend dreading Monday."*
+> 🌱 *"The roots of your future are fed by the quiet persistence of the choices you make today."*
 
 
 </div>
