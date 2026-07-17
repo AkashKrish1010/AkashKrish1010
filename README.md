@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of your future are fed by the quiet persistence of the choices you make today."*
+> 😂 *"Friday is just a masquerade ball where my productivity wears a mask of professional incompetence until the clock strikes five."*
 
 
 </div>
