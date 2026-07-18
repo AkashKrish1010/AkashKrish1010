@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Friday is just a masquerade ball where my productivity wears a mask of professional incompetence until the clock strikes five."*
+> 🤔 *"The silence of a Saturday morning is merely the echo of all the things we decided not to become."*
 
 
 </div>
