@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The silence of a Saturday morning is merely the echo of all the things we decided not to become."*
+> 😂 *"Sunday is just a giant middle finger from the weekend before Monday decides to start yelling at you."*
 
 
 </div>
