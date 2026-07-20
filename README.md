@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a giant middle finger from the weekend before Monday decides to start yelling at you."*
+> 🤔 *"The echo of a choice made in silence often shapes the landscape of a life lived in noise."*
 
 
 </div>
