@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The echo of a choice made in silence often shapes the landscape of a life lived in noise."*
+> 💻 *"Tuesday is merely the second iteration of a week that functions best when you remember to comment your life before the final compilation."*
 
 
 </div>
