@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Tuesday is merely the second iteration of a week that functions best when you remember to comment your life before the final compilation."*
+> 😂 *"Middle age is when your back goes out more often than you do, even on a perfectly good Wednesday."*
 
 
 </div>
