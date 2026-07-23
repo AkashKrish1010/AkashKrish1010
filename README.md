@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Middle age is when your back goes out more often than you do, even on a perfectly good Wednesday."*
+> 🚀 *"The embers of your past are merely the fuel for the brilliant sunrise you are building today."*
 
 
 </div>
