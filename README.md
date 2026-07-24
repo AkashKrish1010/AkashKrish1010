@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The embers of your past are merely the fuel for the brilliant sunrise you are building today."*
+> 🤔 *"The echo of a choice made today is the architecture of the person you will inhabit tomorrow."*
 
 
 </div>
