@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The echo of a choice made today is the architecture of the person you will inhabit tomorrow."*
+> 🚀 *"The light you gather on a quiet Saturday will illuminate the path you choose to walk when the world begins to stir again."*
 
 
 </div>
