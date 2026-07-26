@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The light you gather on a quiet Saturday will illuminate the path you choose to walk when the world begins to stir again."*
+> 😂 *"Sunday is just a giant cosmic snooze button that eventually hits you back with a Monday morning alarm."*
 
 
 </div>
