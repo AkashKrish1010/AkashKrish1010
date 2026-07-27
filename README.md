@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a giant cosmic snooze button that eventually hits you back with a Monday morning alarm."*
+> 🤔 *"Monday is merely the horizon where we trade the sanctuary of memory for the uncertainty of becoming."*
 
 
 </div>
