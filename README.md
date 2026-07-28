@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"Monday is merely the horizon where we trade the sanctuary of memory for the uncertainty of becoming."*
+> 💻 *"Logic is the architecture of reality, but empathy is the patch that keeps the system running through the runtime errors of being human."*
 
 
 </div>
