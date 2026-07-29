@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Logic is the architecture of reality, but empathy is the patch that keeps the system running through the runtime errors of being human."*
+> 🙃 *"My code is a fragile house of cards, and I am the breeze that accidentally knocks it over every Wednesday."*
 
 
 </div>
