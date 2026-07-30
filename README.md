@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards, and I am the breeze that accidentally knocks it over every Wednesday."*
+> 😂 *"Thursday is just Friday’s awkward younger sibling who insists on wearing its pajamas to work."*
 
 
 </div>
