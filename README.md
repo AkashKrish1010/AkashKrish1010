@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Thursday is just Friday’s awkward younger sibling who insists on wearing its pajamas to work."*
+> 😏 *"Friday is just the corporate world's way of apologizing for the four days of misery it forced upon you."*
 
 
 </div>
