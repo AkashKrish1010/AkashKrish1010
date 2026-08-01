@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Friday is just the corporate world's way of apologizing for the four days of misery it forced upon you."*
+> 🧱 *"The sun rises upon a stage already set; perform your part with steady resolve and leave the rest to the turning world."*
 
 
 </div>
