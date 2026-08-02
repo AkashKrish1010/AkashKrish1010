@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun rises upon a stage already set; perform your part with steady resolve and leave the rest to the turning world."*
+> 😏 *"Sunday is just a polite curtain call before the existential dread of Monday takes center stage again."*
 
 
 </div>
