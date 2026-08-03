@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite curtain call before the existential dread of Monday takes center stage again."*
+> 🤔 *"The echoes of our choices today are the only maps we leave for the person we will become tomorrow."*
 
 
 </div>
