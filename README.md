@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The echoes of our choices today are the only maps we leave for the person we will become tomorrow."*
+> 🌱 *"Growth is not the absence of struggle, but the courage to bloom precisely where your roots have been tested."*
 
 
 </div>
