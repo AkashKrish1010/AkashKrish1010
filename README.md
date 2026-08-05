@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Growth is not the absence of struggle, but the courage to bloom precisely where your roots have been tested."*
+> 💻 *"Life is a recursive function where the base case is not the end, but the moment you find meaning in the loop."*
 
 
 </div>
