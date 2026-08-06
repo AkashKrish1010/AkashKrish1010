@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Life is a recursive function where the base case is not the end, but the moment you find meaning in the loop."*
+> 🌱 *"The soil of yesterday always prepares the roots for the harvest of tomorrow."*
 
 
 </div>
