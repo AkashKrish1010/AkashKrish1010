@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The soil of yesterday always prepares the roots for the harvest of tomorrow."*
+> 🙃 *"I spent all morning fixing a bug only to realize I was the one who introduced it last Friday."*
 
 
 </div>
