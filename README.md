@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all morning fixing a bug only to realize I was the one who introduced it last Friday."*
+> 🌱 *"Your yesterday was the soil, but today is the sunlight that demands you finally bloom into the version of you yet unseen."*
 
 
 </div>
