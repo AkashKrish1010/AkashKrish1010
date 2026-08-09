@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Your yesterday was the soil, but today is the sunlight that demands you finally bloom into the version of you yet unseen."*
+> 🤔 *"The echo of a Sunday afternoon is merely the silence of a future we have yet to inhabit."*
 
 
 </div>
