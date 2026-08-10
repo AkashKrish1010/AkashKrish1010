@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The echo of a Sunday afternoon is merely the silence of a future we have yet to inhabit."*
+> 😏 *"Congratulations on surviving another Monday, a day specifically designed to prove that the weekend was merely a collective hallucination."*
 
 
 </div>
