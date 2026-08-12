@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Logic is the architecture of reality, but empathy is the patch that keeps the system from crashing under the weight of human error."*
+> 😂 *"My internal alarm clock is set to existential dread, which is significantly more effective and annoying than a snooze button."*
 
 
 </div>
