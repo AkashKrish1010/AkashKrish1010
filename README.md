@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"My internal alarm clock is set to existential dread, which is significantly more effective and annoying than a snooze button."*
+> 🤔 *"We measure the depth of our shadows only to realize how far we have wandered from the light we once called home."*
 
 
 </div>
