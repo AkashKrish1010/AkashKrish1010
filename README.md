@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We measure the depth of our shadows only to realize how far we have wandered from the light we once called home."*
+> 😏 *"It is Friday, which is nature’s way of reminding you that you have precisely eight hours left to ignore your mounting professional failures."*
 
 
 </div>
