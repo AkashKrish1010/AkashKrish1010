@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"It is Friday, which is nature’s way of reminding you that you have precisely eight hours left to ignore your mounting professional failures."*
+> 😂 *"Saturday is just a glorified dress rehearsal for realizing you forgot to do everything you planned for the entire week."*
 
 
 </div>
