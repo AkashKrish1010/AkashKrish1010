@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite reminder that your problems are waiting for you in high definition tomorrow morning."*
+> 😏 *"Monday is just a weekly reminder that your weekend potential was purely theoretical."*
 
 
 </div>
