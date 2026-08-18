@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Monday is just a weekly reminder that your weekend potential was purely theoretical."*
+> 🤔 *"The horizon does not end the journey, it merely invites the eye to believe in spaces beyond our current reach."*
 
 
 </div>
