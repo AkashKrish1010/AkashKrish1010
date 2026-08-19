@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it merely invites the eye to believe in spaces beyond our current reach."*
+> 🤔 *"The horizon does not exist to be reached but to remind us that every step forward is merely a new beginning."*
 
 
 </div>
