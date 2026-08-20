@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not exist to be reached but to remind us that every step forward is merely a new beginning."*
+> 🧱 *"The sun rises upon a path already laid; walk it with steady purpose, for what is inevitable requires only your acceptance."*
 
 
 </div>
