@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Friday is the final commit before the long-awaited deployment of a weekend without compilation errors."*
+> 😏 *"Saturday is just the brief pause before your personality remembers it has to perform for the rest of the week again."*
 
 
 </div>
