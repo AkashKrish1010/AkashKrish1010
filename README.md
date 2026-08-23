@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Saturday is just the brief pause before your personality remembers it has to perform for the rest of the week again."*
+> 💻 *"Sunday is the root directory where we clear our cache before the next week compiles."*
 
 
 </div>
