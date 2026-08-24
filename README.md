@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Sunday is the root directory where we clear our cache before the next week compiles."*
+> 🤔 *"The horizon does not end; it merely waits for you to change your perspective on what remains hidden."*
 
 
 </div>
