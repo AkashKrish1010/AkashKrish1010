@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end; it merely waits for you to change your perspective on what remains hidden."*
+> 🌱 *"The roots of your future are watered by the deliberate choices you plant in the soil of today."*
 
 
 </div>
