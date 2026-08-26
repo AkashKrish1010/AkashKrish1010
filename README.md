@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of your future are watered by the deliberate choices you plant in the soil of today."*
+> 🙃 *"I spend my Wednesdays debugging the elegant solutions I felt like a genius for building on Monday."*
 
 
 </div>
