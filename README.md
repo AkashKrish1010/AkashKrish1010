@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spend my Wednesdays debugging the elegant solutions I felt like a genius for building on Monday."*
+> 🚀 *"Your potential is not a destination to reach but a horizon that expands every time you take a step forward."*
 
 
 </div>
