@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Your potential is not a destination to reach but a horizon that expands every time you take a step forward."*
+> 🤔 *"The horizon does not end the journey, it only hides the path we have yet to become."*
 
 
 </div>
