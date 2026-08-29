@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it only hides the path we have yet to become."*
+> 🌱 *"Your past is the soil, but your future is the bloom that dares to unfold beneath a changing sky."*
 
 
 </div>
