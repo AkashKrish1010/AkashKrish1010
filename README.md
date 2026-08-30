@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Your past is the soil, but your future is the bloom that dares to unfold beneath a changing sky."*
+> 😏 *"Sunday is just a polite reminder that your problems are waiting for you to finish your brunch."*
 
 
 </div>
