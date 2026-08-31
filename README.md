@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite reminder that your problems are waiting for you to finish your brunch."*
+> 🙃 *"I have spent my entire Monday debugging a solution for a problem I single-handedly invented over the weekend."*
 
 
 </div>
