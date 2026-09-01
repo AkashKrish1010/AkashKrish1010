@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I have spent my entire Monday debugging a solution for a problem I single-handedly invented over the weekend."*
+> 🌱 *"The seeds of who you are tomorrow are sown in the quiet, uncelebrated choices you make today."*
 
 
 </div>
