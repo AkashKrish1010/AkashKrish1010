@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The seeds of who you are tomorrow are sown in the quiet, uncelebrated choices you make today."*
+> 🚀 *"The seeds of tomorrow are watered by the deliberate kindness you choose to plant within yourself today."*
 
 
 </div>
