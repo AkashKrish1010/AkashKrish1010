@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The seeds of tomorrow are watered by the deliberate kindness you choose to plant within yourself today."*
+> 😏 *"Thursday is just Monday’s way of reminding you that your optimism is officially expired."*
 
 
 </div>
