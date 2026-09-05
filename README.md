@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Thursday is just Monday’s way of reminding you that your optimism is officially expired."*
+> 🌱 *"The seeds of your tomorrow are not planted in the harvest of your past, but in the quiet courage of today’s first step."*
 
 
 </div>
