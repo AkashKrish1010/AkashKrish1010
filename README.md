@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The seeds of your tomorrow are not planted in the harvest of your past, but in the quiet courage of today’s first step."*
+> 🚀 *"Sunday is the quiet bridge between who you were and the version of yourself waiting to bloom tomorrow."*
 
 
 </div>
