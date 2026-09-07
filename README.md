@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Sunday is the quiet bridge between who you were and the version of yourself waiting to bloom tomorrow."*
+> 🚀 *"Monday is not a finish line for your rest but the starting gate for your next great breakthrough."*
 
 
 </div>
