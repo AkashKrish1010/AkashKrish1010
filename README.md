@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Monday is not a finish line for your rest but the starting gate for your next great breakthrough."*
+> 🌱 *"Your roots expand in the quiet spaces between the seasons, turning every unseen struggle into the strength required to reach toward the sun."*
 
 
 </div>
