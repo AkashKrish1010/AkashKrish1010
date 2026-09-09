@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Your roots expand in the quiet spaces between the seasons, turning every unseen struggle into the strength required to reach toward the sun."*
+> 🙃 *"My code is a fragile monument to the optimism I felt three hours ago before I realized everything was fundamentally broken."*
 
 
 </div>
