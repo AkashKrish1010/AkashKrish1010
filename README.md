@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile monument to the optimism I felt three hours ago before I realized everything was fundamentally broken."*
+> 😏 *"It is Thursday, which is essentially just a pathetic, low-effort warm-up for the disappointment you plan to call a weekend."*
 
 
 </div>
