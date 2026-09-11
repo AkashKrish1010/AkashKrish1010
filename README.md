@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"It is Thursday, which is essentially just a pathetic, low-effort warm-up for the disappointment you plan to call a weekend."*
+> 🌱 *"The seeds of tomorrow are nourished by the quiet lessons we harvest from the shadows of our yesterday."*
 
 
 </div>
