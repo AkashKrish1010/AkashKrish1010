@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The seeds of tomorrow are nourished by the quiet lessons we harvest from the shadows of our yesterday."*
+> 🤔 *"We measure our lives in hours, yet exist entirely within the silence between the seconds."*
 
 
 </div>
