@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We measure our lives in hours, yet exist entirely within the silence between the seconds."*
+> 😂 *"Sunday is just a practice round for the existential dread of Monday disguised as a nap."*
 
 
 </div>
