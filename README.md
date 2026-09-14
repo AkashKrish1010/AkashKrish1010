@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Sunday is just a practice round for the existential dread of Monday disguised as a nap."*
+> 🚀 *"The seeds of your ambition planted on this Monday will cultivate the forest of your future success."*
 
 
 </div>
