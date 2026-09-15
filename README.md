@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The seeds of your ambition planted on this Monday will cultivate the forest of your future success."*
+> 😂 *"If your coffee hasn't kicked in yet, you are currently operating on the default settings of a confused houseplant."*
 
 
 </div>
