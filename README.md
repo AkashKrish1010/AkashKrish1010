@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"If your coffee hasn't kicked in yet, you are currently operating on the default settings of a confused houseplant."*
+> 🙃 *"I spent all Wednesday debugging the code I wrote on Tuesday to fix the bugs I created on Monday."*
 
 
 </div>
