@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all Wednesday debugging the code I wrote on Tuesday to fix the bugs I created on Monday."*
+> 😂 *"I finally reached the age where my back goes out more than I do, and honestly, it’s currently winning the argument."*
 
 
 </div>
