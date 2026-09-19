@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all day debugging my code only to realize I was fixing a problem that didn't exist in a file I didn't write."*
+> 🌱 *"Growth is not the absence of struggle, but the courage to bloom through the cracks of your own history."*
 
 
 </div>
