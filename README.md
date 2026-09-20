@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Growth is not the absence of struggle, but the courage to bloom through the cracks of your own history."*
+> 🧱 *"The sun sets on the week not to mark an end, but to confirm that your composure remains the only thing you truly own."*
 
 
 </div>
