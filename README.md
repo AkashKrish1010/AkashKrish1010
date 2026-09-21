@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun sets on the week not to mark an end, but to confirm that your composure remains the only thing you truly own."*
+> 😂 *"Monday is just a weekly reminder that your alarm clock is a malicious device designed to ruin your dreams before they finish."*
 
 
 </div>
