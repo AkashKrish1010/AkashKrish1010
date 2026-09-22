@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Monday is just a weekly reminder that your alarm clock is a malicious device designed to ruin your dreams before they finish."*
+> 🚀 *"The path forward is paved by the small, quiet courage of simply beginning again."*
 
 
 </div>
