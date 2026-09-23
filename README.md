@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The path forward is paved by the small, quiet courage of simply beginning again."*
+> 🤔 *"We navigate the river of time by staring at the wake we leave behind, forgetting that the current only moves forward."*
 
 
 </div>
