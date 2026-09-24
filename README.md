@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We navigate the river of time by staring at the wake we leave behind, forgetting that the current only moves forward."*
+> 💻 *"Life is the only runtime environment that refuses to provide a stack trace when things inevitably go wrong."*
 
 
 </div>
