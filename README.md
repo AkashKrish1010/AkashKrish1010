@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Life is the only runtime environment that refuses to provide a stack trace when things inevitably go wrong."*
+> 😏 *"Friday is just the corporate world's way of apologizing for the four days of misery it forced upon you."*
 
 
 </div>
