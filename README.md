@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Friday is just the corporate world's way of apologizing for the four days of misery it forced upon you."*
+> 🚀 *"The rhythm of a Saturday heartbeat reminds us that stillness is not an end, but the soil where our next bloom begins."*
 
 
 </div>
