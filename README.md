@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The rhythm of a Saturday heartbeat reminds us that stillness is not an end, but the soil where our next bloom begins."*
+> 🌱 *"The seeds of tomorrow are planted in the quiet soil of today's persistence, blooming only when we choose to embrace our own becoming."*
 
 
 </div>
