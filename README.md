@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The seeds of tomorrow are planted in the quiet soil of today's persistence, blooming only when we choose to embrace our own becoming."*
+> 🧱 *"The unfolding of Monday is not a burden to be avoided but the inevitable structure upon which character is built."*
 
 
 </div>
