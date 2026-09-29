@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The unfolding of Monday is not a burden to be avoided but the inevitable structure upon which character is built."*
+> 🌱 *"Growth is the quiet art of shedding who you were to make room for the person you are becoming today."*
 
 
 </div>
