@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Growth is the quiet art of shedding who you were to make room for the person you are becoming today."*
+> 🧱 *"The sun sets upon the path you have chosen, revealing that the only direction remaining is the one you walk next."*
 
 
 </div>
