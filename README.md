@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun sets upon the path you have chosen, revealing that the only direction remaining is the one you walk next."*
+> 🚀 *"The seeds of your tomorrow are anchored in the quiet courage you choose to plant today."*
 
 
 </div>
