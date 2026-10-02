@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The seeds of your tomorrow are anchored in the quiet courage you choose to plant today."*
+> 💻 *"The most elegant code is the one that transforms chaos into a logic so clear it feels like it was always there."*
 
 
 </div>
