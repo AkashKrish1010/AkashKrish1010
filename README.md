@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"The most elegant code is the one that transforms chaos into a logic so clear it feels like it was always there."*
+> 💻 *"Every Saturday is a manual garbage collection for the logic errors accumulated throughout your week of compiling reality."*
 
 
 </div>
