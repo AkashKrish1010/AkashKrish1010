@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Every Saturday is a manual garbage collection for the logic errors accumulated throughout your week of compiling reality."*
+> 😏 *"Sunday is just a polite reminder that your entire personality is currently being held hostage by a Monday morning alarm."*
 
 
 </div>
