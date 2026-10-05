@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite reminder that your entire personality is currently being held hostage by a Monday morning alarm."*
+> 🚀 *"Monday is the quiet horizon where your past intentions bloom into the bold reality of this week."*
 
 
 </div>
