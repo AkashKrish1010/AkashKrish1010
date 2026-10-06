@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Monday is the quiet horizon where your past intentions bloom into the bold reality of this week."*
+> 😂 *"My calendar says it is Tuesday, but my motivation level is firmly stuck in a long-term relationship with Sunday afternoon."*
 
 
 </div>
