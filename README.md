@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"My calendar says it is Tuesday, but my motivation level is firmly stuck in a long-term relationship with Sunday afternoon."*
+> 🙃 *"My code is a fragile house of cards built on top of a mountain of coffee and misplaced semicolons."*
 
 
 </div>
