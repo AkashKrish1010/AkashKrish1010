@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards built on top of a mountain of coffee and misplaced semicolons."*
+> 🙃 *"I spent all morning debugging a legacy system only to realize my own comment from last year was the root cause."*
 
 
 </div>
