@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I spent all morning debugging a legacy system only to realize my own comment from last year was the root cause."*
+> 🧱 *"The turning of the seasons does not consult your comfort, yet the sun rises regardless of your expectations."*
 
 
 </div>
