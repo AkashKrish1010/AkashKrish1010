@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The turning of the seasons does not consult your comfort, yet the sun rises regardless of your expectations."*
+> 😂 *"Monday is just a bitter reminder that your alarm clock still hates you for what you did all weekend."*
 
 
 </div>
