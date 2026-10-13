@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😂 *"Monday is just a bitter reminder that your alarm clock still hates you for what you did all weekend."*
+> 💻 *"Tuesday is just the refactored Monday we never had the courage to commit."*
 
 
 </div>
