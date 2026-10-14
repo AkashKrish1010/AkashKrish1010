@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Tuesday is just the refactored Monday we never had the courage to commit."*
+> 🚀 *"Midweek is not a mountain to climb but a bridge to your potential, built stone by stone with every quiet choice you make today."*
 
 
 </div>
