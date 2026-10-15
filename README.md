@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Midweek is not a mountain to climb but a bridge to your potential, built stone by stone with every quiet choice you make today."*
+> 🌱 *"The roots of your future are anchored in the courage you summon today to outgrow the person you were yesterday."*
 
 
 </div>
