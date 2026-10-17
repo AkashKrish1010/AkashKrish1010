@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of your future are anchored in the courage you summon today to outgrow the person you were yesterday."*
+> 🤔 *"The horizon does not end the journey, it merely invites the eye to imagine what the heart has not yet dared to reach."*
 
 
 </div>
