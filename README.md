@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it merely invites the eye to imagine what the heart has not yet dared to reach."*
+> 😏 *"Sunday is just a polite curtain call before the world forces you to start pretending you enjoy your job again tomorrow."*
 
 
 </div>
