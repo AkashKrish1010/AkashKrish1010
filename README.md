@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Sunday is just a polite curtain call before the world forces you to start pretending you enjoy your job again tomorrow."*
+> 🙃 *"My code is a fragile house of cards built on the hope that Monday morning forgets the shortcuts I took on Friday night."*
 
 
 </div>
