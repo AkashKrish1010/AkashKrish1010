@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards built on the hope that Monday morning forgets the shortcuts I took on Friday night."*
+> 🙃 *"My code is a masterpiece of architectural ambition built entirely on the shaky foundation of my inability to remember how a loop works."*
 
 
 </div>
