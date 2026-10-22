@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Wednesday is just the universe testing how much beige monotony your soul can handle before you finally start talking to the office plant."*
+> 💻 *"Life is a recursive loop where each iteration seeks a base case of meaning before the stack overflows."*
 
 
 </div>
