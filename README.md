@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Life is a recursive loop where each iteration seeks a base case of meaning before the stack overflows."*
+> 🚀 *"The threshold of the weekend is not an end, but a quiet space to gather the strength needed for your next great ascent."*
 
 
 </div>
