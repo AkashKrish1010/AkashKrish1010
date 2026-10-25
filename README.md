@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Saturday is the manual garbage collection of the soul, reclaiming the fragmented memory allocated to the week before the infinite loop begins again."*
+> 🧱 *"The sun sets on what was meant to be, leaving only the quiet strength of acceptance in its wake."*
 
 
 </div>
