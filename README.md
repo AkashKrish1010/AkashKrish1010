@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The sun sets on what was meant to be, leaving only the quiet strength of acceptance in its wake."*
+> 🙃 *"My code is a fragile house of cards, and I am the only one who knows which gust of wind will collapse it."*
 
 
 </div>
