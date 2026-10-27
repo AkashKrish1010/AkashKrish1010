@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"My code is a fragile house of cards, and I am the only one who knows which gust of wind will collapse it."*
+> 🧱 *"The weight of the sun remains constant whether we rise to meet it or wither in the shade of our own shadows."*
 
 
 </div>
