@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The weight of the sun remains constant whether we rise to meet it or wither in the shade of our own shadows."*
+> 🌱 *"The horizon does not shift for the hesitant, but the path unfolds only for those who dare to walk into their own evolution."*
 
 
 </div>
