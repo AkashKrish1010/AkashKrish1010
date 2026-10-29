@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The horizon does not shift for the hesitant, but the path unfolds only for those who dare to walk into their own evolution."*
+> 🙃 *"I finally fixed the bug, only to realize the new code is just a more expensive way to crash."*
 
 
 </div>
