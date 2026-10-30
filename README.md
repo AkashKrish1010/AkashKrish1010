@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🙃 *"I finally fixed the bug, only to realize the new code is just a more expensive way to crash."*
+> 🌱 *"The harvest of your becoming is not found in the speed of the climb, but in the roots you strengthen while waiting for the dawn."*
 
 
 </div>
