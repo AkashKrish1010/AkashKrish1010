@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The harvest of your becoming is not found in the speed of the climb, but in the roots you strengthen while waiting for the dawn."*
+> 🧱 *"The turning of the leaf does not seek permission from the wind, nor does the soul require approval to remain unmoved."*
 
 
 </div>
