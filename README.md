@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The turning of the leaf does not seek permission from the wind, nor does the soul require approval to remain unmoved."*
+> 💻 *"Monday is the root directory where the week begins, but only your code defines the execution path."*
 
 
 </div>
