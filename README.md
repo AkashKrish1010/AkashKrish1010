@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 💻 *"Monday is the root directory where the week begins, but only your code defines the execution path."*
+> 🤔 *"We build our monuments out of the echoes of moments we were too distracted to inhabit while they were still soft."*
 
 
 </div>
