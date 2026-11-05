@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"We build our monuments out of the echoes of moments we were too distracted to inhabit while they were still soft."*
+> 🚀 *"The horizon is not a boundary to stop your progress, but a promise that every new dawn carries the quiet potential for greatness."*
 
 
 </div>
