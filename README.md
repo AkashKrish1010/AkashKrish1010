@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The horizon is not a boundary to stop your progress, but a promise that every new dawn carries the quiet potential for greatness."*
+> 🚀 *"The sun does not ask for permission to rise, and neither should you when chasing the light of your own potential."*
 
 
 </div>
