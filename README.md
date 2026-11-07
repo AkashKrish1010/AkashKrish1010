@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"The sun does not ask for permission to rise, and neither should you when chasing the light of your own potential."*
+> 🌱 *"The roots of your future are watered by the deliberate choices you make in the quiet spaces of today."*
 
 
 </div>
