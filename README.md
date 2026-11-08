@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The roots of your future are watered by the deliberate choices you make in the quiet spaces of today."*
+> 🤔 *"The horizon does not end the journey, it merely demands that we define what we are willing to carry into the next light."*
 
 
 </div>
