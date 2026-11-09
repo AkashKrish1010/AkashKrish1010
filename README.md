@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon does not end the journey, it merely demands that we define what we are willing to carry into the next light."*
+> 😏 *"Monday is just the universe’s way of reminding you that your weekend was purely a hallucination."*
 
 
 </div>
