@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Monday is just the universe’s way of reminding you that your weekend was purely a hallucination."*
+> 😏 *"Congratulations on surviving another Wednesday, a day that exists solely to remind you that your weekend is still tragically out of reach."*
 
 
 </div>
