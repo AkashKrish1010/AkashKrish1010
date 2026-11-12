@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"Congratulations on surviving another Wednesday, a day that exists solely to remind you that your weekend is still tragically out of reach."*
+> 🌱 *"The strength of your tomorrow is woven into the quiet persistence with which you bloom today."*
 
 
 </div>
