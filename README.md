@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"The strength of your tomorrow is woven into the quiet persistence with which you bloom today."*
+> 🧱 *"The calendar marks a day, yet the steady mind remains unmoved by the weight of mere superstition."*
 
 
 </div>
