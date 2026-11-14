@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🧱 *"The calendar marks a day, yet the steady mind remains unmoved by the weight of mere superstition."*
+> 🤔 *"The horizon is not a destination but a boundary where your current understanding dissolves into the vastness of the unknown."*
 
 
 </div>
