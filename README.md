@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🤔 *"The horizon is not a destination but a boundary where your current understanding dissolves into the vastness of the unknown."*
+> 🚀 *"Quiet your spirit today so you may clearly hear the quiet rhythm of the progress you have already made."*
 
 
 </div>
