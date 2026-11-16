@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🚀 *"Quiet your spirit today so you may clearly hear the quiet rhythm of the progress you have already made."*
+> 🌱 *"Your current state is merely the foundation for the person you are building tomorrow, so embrace the heavy lifting of evolution."*
 
 
 </div>
