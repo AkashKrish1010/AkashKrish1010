@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Your current state is merely the foundation for the person you are building tomorrow, so embrace the heavy lifting of evolution."*
+> 😏 *"I love how Tuesday acts like a productive adult despite knowing full well it has absolutely no personality of its own."*
 
 
 </div>
