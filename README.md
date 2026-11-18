@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 😏 *"I love how Tuesday acts like a productive adult despite knowing full well it has absolutely no personality of its own."*
+> 🌱 *"Your growth is not measured by the speed of your climb, but by the depth of the roots you strengthen along the way."*
 
 
 </div>
