@@ -76,7 +76,7 @@
 <!--STARTS_HERE_QUOTE_README-->
 <div align="center">
 
-> 🌱 *"Your growth is not measured by the speed of your climb, but by the depth of the roots you strengthen along the way."*
+> 🤔 *"The horizon is merely the point where our imagination stops borrowing from the infinite."*
 
 
 </div>
